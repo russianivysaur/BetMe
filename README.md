@@ -1,4 +1,4 @@
-# ludo_macha
+# bet_me
 
 A 3rd party betting platform for ludo king.
 
