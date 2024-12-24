@@ -1,7 +1,7 @@
 # bet_me
 
 A 3rd party betting platform for ludo king.
-
+[Backend](https://github.com/russianivysaur/BetMe-Backend)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
